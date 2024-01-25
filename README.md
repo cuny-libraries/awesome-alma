@@ -4,4 +4,4 @@ A curated list of awesome Alma repos, tools, and resources.
 ## Consortia
 *Consortia using GitHub to store/share their Alma configurations, tools, etc.*
 
-* [WRLC]([https://github.com/ajenti/ajenti](https://github.com/WRLC))
+* [WRLC][https://github.com/WRLC]
