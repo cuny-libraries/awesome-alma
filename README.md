@@ -10,4 +10,4 @@ A curated list of awesome Alma repos, tools, and resources.
 ## Individuals
 *People using GitHub to store/share their Alma configurations, tools, etc.*
 
-* [Lori Stethers, Wesleyan University]([https://github.com/WRLC](https://github.com/lstethers))
+* [Lori Stethers, Wesleyan University](https://github.com/WRLC](https://github.com/lstethers)
